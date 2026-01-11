@@ -1,0 +1,7 @@
+{
+  "name": "2nd Copy of Karigar Gold Estimator",
+  "description": "AI-powered gold jewelry weight and price estimator for professional jewelers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
